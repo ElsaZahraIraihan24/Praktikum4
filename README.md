@@ -126,3 +126,6 @@ print("Hasil gabungan list B dan A:", list_A_and_B)
 ## Output
 ![latihan](https://github.com/user-attachments/assets/a7e59bb9-9afe-4a84-b546-3128859bd246)
 
+## FlowChart
+
+![flowchart](https://github.com/user-attachments/assets/1dcd02c2-ec88-47b0-bc79-31874ed3f9c9)
